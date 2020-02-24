@@ -13,7 +13,7 @@ const CHANNELIDS = array("aaaaaaaaaaaaaaaaaaaa", "bbbbbbbbbbbbbbbbbbbb");
 const SECRET = "https://www.youtube.com/channel/UCzk2btk4tPKY51623g0V7eQ";
 
 // Discord webhook URL
-const WEBHOOKURL = "REPLACE_WITH_WEBHOOK_URL";
+const WEBHOOKURL = "https://discordapp.com/api/webhooks/681309681809227855/yR4a8qHAX7NWKUMZ5AVlXDDfpGYT7804NCMyY2SJ__RSWJipK7WBx9_1Cy1YQwDug-wC";
 
 ///   ///   ///  ///   ///   ///
 
