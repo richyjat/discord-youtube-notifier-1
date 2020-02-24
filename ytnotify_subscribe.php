@@ -4,13 +4,13 @@
 
 // YouTube channel ID(s)
 // Can be multiple channels - eg: `array("aaaaaaaaaaaaaaaaaaaa", "bbbbbbbbbbbbbbbbbbbb")`
-const CHANNELIDS = array("REPLACE_WITH_CHANNEL_ID");
+const CHANNELIDS = array("https://www.youtube.com/channel/UCzk2btk4tPKY51623g0V7eQ");
 
 // Public callback URL
-const CALLBACKURL = "REPLACE_WITH_CALLBACK_URL";
+const CALLBACKURL = "https://www.youtube.com/channel/UCzk2btk4tPKY51623g0V7eQ";
 
 // Secret - must match ytnotify.php; should be reasonably hard to guess
-const SECRET = "REPLACE_WITH_UNIQUE_SECRET";
+const SECRET = "sdZfY4K981Qx1CaYfxwaFaFVkZkqryXJ";
 
 ///   ///   ///  ///   ///   ///
 
